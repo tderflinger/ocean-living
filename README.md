@@ -20,5 +20,5 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 ## Movies
 
-* [Waterworld](https://en.wikipedia.org/wiki/Waterworld) Waterworld by Kevin Costner. Science Fiction movie about earth covered in water.
+* [Waterworld](https://en.wikipedia.org/wiki/Waterworld), produced by Kevin Costner. Science Fiction movie about earth covered in water.
 
