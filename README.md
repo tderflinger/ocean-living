@@ -1,8 +1,21 @@
 # Ocean Living Resources
 
-Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabitated by humans. With this link collection you can get information on how this can change.
+Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabitated by humans. With this link collection you  get information on how this can change.
+
+## Organizations
+
+* [Seasteading Institute](https://www.seasteading.org/) Furthers the cause of ocean living
+
+## Enterprises
+
+* [Blue Frontiers](https://www.blue-frontiers.com/en/) Commercial organization with plans to build ocean living prototype in French Polynesia
 
 ## Hotels in the Ocean
 
 * [Solent Forts](https://solentforts.com/) Hotel accomodation in the seas.
+
+## In the News
+
+* [BBC Article: Ocean Living](http://www.bbc.com/future/story/20131101-living-on-the-ocean) Article from BBC about living in the ocean.
+
 
