@@ -18,4 +18,7 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 * [BBC Article: Ocean Living](http://www.bbc.com/future/story/20131101-living-on-the-ocean) Article from BBC about living in the ocean.
 
+## Movies
+
+* [Waterworld](https://en.wikipedia.org/wiki/Waterworld) Waterworld by Kevin Costner. Science Fiction movie about earth covered in water.
 
