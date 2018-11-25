@@ -25,3 +25,7 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 ## Law
 
 * [United Nations Convention on the Law of the Sea (UNCLOS)](https://www.iucn.org/theme/marine-and-polar/our-work/international-ocean-governance/unclos) International legal framework for marine activity.
+
+## Research
+
+* [Project OASIS](https://www.seasteading.org/project-oasis/) Research of algae production at sea.
