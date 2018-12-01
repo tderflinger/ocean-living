@@ -30,4 +30,4 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 ## Research
 
 * [Project OASIS](https://www.seasteading.org/project-oasis/) Research of algae production at sea.
-* [Ocean Therman Energy ConversioN (OTEC)](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) Converting the heat differences in the ocean in plenty of energy.
+* [Ocean Therman Energy Conversion (OTEC)](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) Converting the heat differences in the ocean into plenty of energy.
