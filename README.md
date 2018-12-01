@@ -10,9 +10,10 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 * [Blue Frontiers](https://www.blue-frontiers.com/en/) Commercial organization with plans to build ocean living prototype in French Polynesia
 
-## Hotels in the Ocean
+## Habitations in the Ocean
 
 * [Solent Forts](https://solentforts.com/) Hotel accomodation in the seas.
+* [Floating Instrument Platform (FLIP)](https://en.wikipedia.org/wiki/RP_FLIP) Stable floating platform in the ocean.
 
 ## In the News
 
@@ -29,3 +30,4 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 ## Research
 
 * [Project OASIS](https://www.seasteading.org/project-oasis/) Research of algae production at sea.
+* [Ocean Therman Energy ConversioN (OTEC)](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) Converting the heat differences in the ocean in plenty of energy.
