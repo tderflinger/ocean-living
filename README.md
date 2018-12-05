@@ -19,10 +19,6 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 * [BBC Article: Ocean Living](http://www.bbc.com/future/story/20131101-living-on-the-ocean) Article from BBC about living in the ocean.
 
-## Movies
-
-* [Waterworld](https://en.wikipedia.org/wiki/Waterworld), produced by Kevin Costner. Science Fiction movie about earth covered in water.
-
 ## Law
 
 * [United Nations Convention on the Law of the Sea (UNCLOS)](https://www.iucn.org/theme/marine-and-polar/our-work/international-ocean-governance/unclos) International legal framework for marine activity.
@@ -31,3 +27,7 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 * [Project OASIS](https://www.seasteading.org/project-oasis/) Research of algae production at sea.
 * [Ocean Thermal Energy Conversion (OTEC)](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) Converting the heat differences in the ocean into plenty of energy.
+
+## Movies
+
+* [Waterworld](https://en.wikipedia.org/wiki/Waterworld), produced by Kevin Costner. Science Fiction movie about earth covered in water.
