@@ -19,6 +19,10 @@ Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabi
 
 * [BBC Article: Ocean Living](http://www.bbc.com/future/story/20131101-living-on-the-ocean) Article from BBC about living in the ocean.
 
+## Books
+
+* [Seasteading](https://itunes.apple.com/ca/book/seasteading/id1052932073?mt=11), Joe Quirk, Free Press, 2017
+
 ## Research
 
 * [Project OASIS](https://www.seasteading.org/project-oasis/) Research of algae production at sea.
