@@ -2,7 +2,7 @@
 
 Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabitated by humans. 
 
-Let´s change that!
+Let's change that!
 
 ## Organizations
 
