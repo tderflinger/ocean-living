@@ -1,6 +1,8 @@
 # Ocean Living Resources
 
-Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabitated by humans. With this link collection you  get information on how this can change.
+Two-thirds of the earth are covered in water. Yet, most of the ocean is uninhabitated by humans. 
+
+Let´s change that!
 
 ## Organizations
 
