@@ -20,6 +20,7 @@ Let's change that!
 ## In the News
 
 * [BBC Article: Ocean Living](http://www.bbc.com/future/story/20131101-living-on-the-ocean) Article from BBC about living in the ocean.
+* [OceanScrapers](https://www.youtube.com/watch?v=VwawntVZYEg) YouTube video about oceanscrapers.
 
 ## Books
 
